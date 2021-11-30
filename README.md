@@ -1,2 +1,2 @@
 # Pilz Hack
-Najdenie hesla projektu Pilz PNOZmulti od 
+Najdenie hesla projektu Pilz PNOZmulti 
